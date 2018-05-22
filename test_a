@@ -1,0 +1,5 @@
+This paragraph is just an intro, it will be ignored for testing
+
+~~~yaml example="first" fixture="hello.js"
+color: blue
+~~~
